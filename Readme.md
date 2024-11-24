@@ -1,6 +1,6 @@
 # Common Python Errors
 
-#### 1. **ZeroDivisionError**
+#### 1. ZeroDivisionError
 Occurs when a number is divided by zero.
 
 **Example**:
@@ -90,7 +90,7 @@ Occurs when attempting to open a file that does not exist.
 with open("nonexistent_file.txt", "r") as f:
     content = f.read()  # FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.txt'
 ```
-## Take-home
+# Take-home
 These errors are common in Python, and understanding them helps debug effectively. Use try-except blocks to handle exceptions gracefully and avoid program crashes.
 
 
