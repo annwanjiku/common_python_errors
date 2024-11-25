@@ -1,6 +1,6 @@
 # Common Python Errors
 
-#### 1. ZeroDivisionError
+## 1. ZeroDivisionError
 Occurs when a number is divided by zero.
 
 **Example**:
